@@ -1,4 +1,5 @@
-# 💫 About Me:
+# About Me:
+Hola Soy Aldair :wave:
 Programador back-end<br>Estudiando en la Universidad de Buenos Aires<br>
 
 
