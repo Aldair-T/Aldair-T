@@ -1,7 +1,7 @@
 # :mate: About Me:
 - Hola Soy Aldair :wave:<br>
 - Desarrollador Backend :computer:<br>
-- Estudiando Lic. Analisi de Sistemas en la UBA :man_student:<br>
+- Estudiante de Lic. en Ciencias de la Computacion en la UBA :man_student:<br>
 
 
 # 💻 Tech Stack:
